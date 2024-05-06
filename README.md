@@ -10,7 +10,8 @@ I'm Abdellah, a frontend developer with a passion for creating beautiful web int
 2. **20 Fun JavaScript Mini-Projects**: Embark on an interactive journey with 15 small but delightful JavaScript projects. From dynamic animations to interactive games, each project is a testament to my growing expertise in JavaScript. Explore these bite-sized creations and witness the magic of code unfold in each one.
    - [Check out the JavaScript Mini-Projects] https://github.com/AbdellahKarani/vanilla_projects
 
-3. 20 Exciting C Projects: Dive into a captivating array of 20 small yet engaging C projects. Ranging from command-line utilities to simple games, each project showcases my evolving proficiency in the C programming language. Explore these compact creations and experience the thrill of coding in C unfold in each project.
+#### The C Projects:
+3. **20 Exciting C Projects**: Dive into a captivating array of 20 small yet engaging C projects. Ranging from command-line utilities to simple games, each project showcases my evolving proficiency in the C programming language. Explore these compact creations and experience the thrill of coding in C unfold in each project.
 
    - [Check out the C projects] (https://github.com/KaraniAbdellah/C_Projects)
 
