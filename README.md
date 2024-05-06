@@ -12,7 +12,7 @@ I'm Abdellah, a frontend developer with a passion for creating beautiful web int
 
 3. 20 Exciting C Projects: Dive into a captivating array of 20 small yet engaging C projects. Ranging from command-line utilities to simple games, each project showcases my evolving proficiency in the C programming language. Explore these compact creations and experience the thrill of coding in C unfold in each project.
 
-   - [Check out the C projects] https://github.com/AbdellahKarani/C_projects
+   - [Check out the C projects] (https://github.com/KaraniAbdellah/C_Projects)
 
 ### 🎓 Education:
 - Currently pursuing a degree in Computer Science at Sultan Molay Siliman Unversity (Second Year)
