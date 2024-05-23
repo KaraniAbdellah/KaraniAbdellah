@@ -1,23 +1,30 @@
-### 👋 Hi there
-### 💡 About Me:
-I'm Abdellah, a frontend developer with a passion for creating beautiful web interfaces and solving complex problems using C programming. Currently in my second year of studies, I enjoy pushing the boundaries of what's possible on the web while honing my algorithmic thinking skills. you can check out my Becrowd account at https://judge.beecrowd.com/en/profile/955116
+<h1 align="center">Hi 👋, I'm Abdelah Karni</h1>
+<h3 align="center">A passionate frontend developer from morocco</h3>
 
-### 🚀 Projects:
-#### Frontend Development Projects:
-1. **Creative Dashboard Experience**: Dive into the world of creativity with my uniquely designed dashboard project. Crafted using HTML and CSS, this project not only showcases my personal framework but also reflects my journey in mastering the art of web development. Explore seamlessly navigable multiple pages and witness how creativity meets functionality.
-   - [Explore the Dashboard Project] : https://github.com/AbdellahKarani/Dashboard
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=karaniabdellah&label=Profile%20views&color=0e75b6&style=flat" alt="karaniabdellah" /> </p>
 
-2. **20 Fun JavaScript Mini-Projects**: Embark on an interactive journey with 15 small but delightful JavaScript projects. From dynamic animations to interactive games, each project is a testament to my growing expertise in JavaScript. Explore these bite-sized creations and witness the magic of code unfold in each one.
-   - [Check out the JavaScript Mini-Projects] https://github.com/AbdellahKarani/vanilla_projects
+- 🌱 I’m currently learning **JavaScript**
 
-#### The C Projects:
-3. **20 Exciting C Projects**: Dive into a captivating array of 20 small yet engaging C projects. Ranging from command-line utilities to simple games, each project showcases my evolving proficiency in the C programming language. Explore these compact creations and experience the thrill of coding in C unfold in each project.
+- 👨‍💻 All of my projects are available at [https://abdellahkarani.github.io/](https://abdellahkarani.github.io/)
 
-   - [Check out the C projects] (https://github.com/KaraniAbdellah/C_Projects)
+- 💬 Ask me about **Javascript**
 
-### 🎓 Education:
-- Currently pursuing a degree in Computer Science at Sultan Molay Siliman Unversity (Second Year)
+- 📫 How to reach me **abdellahkarani@gmail.com**
 
-### 📧 Contact:
-- Let's collaborate! Feel free to reach out to me via abdellahkarani@gmail.com to discuss frontend development or algorithmic problem-solving opportunities.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/abdellah karani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdellah karani" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abdellah karani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdellah karani" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/abdellah karani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="abdellah karani" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/abdellah karani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="abdellah karani" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/kaarani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="kaarani" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karaniabdellah&show_icons=true&locale=en&layout=compact" alt="karaniabdellah" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karaniabdellah&show_icons=true&locale=en" alt="karaniabdellah" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karaniabdellah&" alt="karaniabdellah" /></p>
