@@ -11,8 +11,6 @@
 
 - 👨‍💻 All of my projects are available at [https://abdellahkarani.github.io/](https://abdellahkarani.github.io/)
 
-- 💬 Ask me about **Javascript**
-
 - 📫 How to reach me **abdellahkarani@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
