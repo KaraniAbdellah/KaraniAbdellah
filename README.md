@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently work with **JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://abdellahkarani.github.io/](https://abdellahkarani.github.io/)
+- 👨‍💻 All of my projects are available at [https://abdellahkarani.github.io/](https://karaniabdellah.github.io/Portfolio/)
 
 - 📫 How to reach me **abdellahkarani@gmail.com**
 
