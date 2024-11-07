@@ -18,7 +18,7 @@
 <a href="https://twitter.com/@karani66745" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@karani66745" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abdellah-karani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdellah-karani" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/abdellah-karani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="abdellah-karani" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@abdellah370" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@abdellah370" height="30" width="40" /></a>
+<a href="https://youtube.com/@abdellah370?si=kMKAttXwXCR8XIoT" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@abdellah370" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/kaarani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="kaarani" height="30" width="40" /></a>
 </p>
 
