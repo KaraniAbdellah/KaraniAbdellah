@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karaniabdellah&label=Profile%20views&color=0e75b6&style=flat" alt="karaniabdellah" /> </p>
 
-- 🌱 I’m currently work with **JavaScript**
+- 🌱 I’m currently work with **Mern Stack**
 
 - 👨‍💻 All of my projects are available at [https://abdellahkarani.github.io/](https://karaniabdellah.github.io/Portfolio/)
 
