@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently work with **Mern Stack**
 
-- 👨‍💻 All of my projects are available at [...](https://abdellahkarani.vercel.app/)
+- 👨‍💻 All of my projects are available at [abdellah karani](https://abdellahkarani.vercel.app/)
 
 - 📫 How to reach me **abdellahkarani@gmail.com**
 
