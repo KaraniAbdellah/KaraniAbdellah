@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karaniabdellah&label=Profile%20views&color=0e75b6&style=flat" alt="karaniabdellah" /> </p>
 
-- 🌱 I’m currently work with **Mern Stack**
+- 🌱 I’m currently work with **Mern Stack and spring boot with angular**
 
 - 👨‍💻 All of my projects are available at [abdellah karani](https://abdellahkarani.vercel.app/)
 
