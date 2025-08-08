@@ -8,9 +8,9 @@
 
 - 🌱 currently work with **Mern Stack, Spring boot and AngularJs**
 
-- 👨‍💻 All of my projects are available at [abdellah karani](https://abdellahkarani.vercel.app/)
+- 👨‍💻 All my projects are available at [abdellah karani](https://abdellahkarani.vercel.app/)
 
-- 📫 How to reach me **abdellahkarani@gmail.com**
+- 📫 Connect me here **abdellahkarani@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
