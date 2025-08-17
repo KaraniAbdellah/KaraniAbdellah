@@ -4,7 +4,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.cm/ghpvc/?username=karaniabdellah&label=Profile%20views&color=0e75b6&style=flat" alt="karaniabdellah" /> </p>
+<p align="left"> <img  src="https://komarev.cm/ghpvc/?username=karaniabdellah&label=Profile%20views&color=0e75b6&style=flat" alt="karaniabdellah" /> </p>
 
 - 🌱 currently work with **Mern Stack, Spring boot and AngularJs**
 
