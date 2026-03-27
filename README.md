@@ -6,7 +6,7 @@
 
 <img src="https://komarev.cm/ghpvc/?username=karaniabdellah&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
 
-- 🌱 currently work with **Mern Stack, Spring boot and AngularJs**
+- 🌱 Data & AI & Cloud
 
 - 👨‍💻 All my projects are available at [abdellah karani](https://abdellahkarani.vercel.app/)
 
