@@ -103,8 +103,9 @@
 </a>
 
 <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
-<img src="https://cdn.worldvectorlogo.com/logos/apache-airflow-1.svg" alt="airflow" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" alt="Apache Airflow" width="40" height="40"/>
 </a>
+
 
 <!-- Cloud & DevOps -->
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
