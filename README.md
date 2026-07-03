@@ -122,7 +122,4 @@
 </a>
 
 </p>
-
-![stats](https://github-readme-stats.vercel.app/api?username=karaniabdellah&show_icons=true&locale=en)
-
-![langs](https://github-readme-stats.vercel.app/api/top-langs?username=karaniabdellah&layout=compact)
+x
