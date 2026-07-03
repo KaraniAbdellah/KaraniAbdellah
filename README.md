@@ -30,10 +30,6 @@
     <img src="https://img.shields.io/badge/NeetCode-Practice-orange?style=for-the-badge&logo=leetcode" />
   </a>
 
-  <a href="https://leetcode.com/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Solutions-yellow?style=for-the-badge&logo=leetcode" />
-  </a>
-
   <a href="https://codeforces.com/profile/kaarani" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-Rating-blue?style=for-the-badge&logo=codeforces" />
   </a>
@@ -114,28 +110,5 @@
 
 </p>
 
----
+I believe that fundamentals are the building blocks for everything else.
 
-## 📂 Featured Projects
-
-- 🔹 AI Chatbot using FastAPI  
-- 🔹 Data Pipeline with Apache Airflow  
-- 🔹 ML Model Deployment on AWS  
-- 🔹 Data Analysis with Pandas & Visualization  
-
----
-
-## ⚡ Current Focus
-
-- Building scalable AI systems
-- Learning system design for ML pipelines
-- Solving NeetCode / LeetCode problems daily
-- Improving cloud architecture skills (AWS)
-
----
-
-## 🏁 Final Note
-
-> “Consistency beats intensity. Build every day.”
-
----
