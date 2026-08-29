@@ -13,10 +13,19 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 My last project
+- https://internship-sat.vercel.app/
+- https://12t.vercel.app/
+- https://moroccan-chat-culture.vercel.app/
+- https://smart-notebook-chi.vercel.app/
+- https://job-market-nu.vercel.app/dataset_info
+- https://abdellahkarai.vercel.app/
+- https://threads-alpha-five.vercel.app/
 
-- 🌱 I’m currently focused on **AI, ML, Data Engineering, and Cloud**
-- 👨‍💻 I build real-world projects in **Python, ML pipelines, and backend systems**
+## 🚀 About me
+
+- 🌱 I’m currently focused on **AI, ML, Data Engineering, and Cloud (GCP and Azure)**
+* 👨‍💻 I build real-world projects using **Python, FastAPI, Docker, Airflow, dbt, Databricks, Azure, GCP, CI/CD, ...**
 - 📊 I enjoy working with **data, automation, and scalable systems**
 - 📫 Reach me at: **abdellahkarani@gmail.com**
 - 🌐 Portfolio: [abdellahkarani.vercel.app](https://abdellahkarani.vercel.app/)
